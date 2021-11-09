@@ -1,0 +1,9 @@
+{
+	"ip":"144.76.95.237:38256",
+	"port": 38256,
+	"name": "INACRAFT2",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (pembantuq) (pembantuq)",
+	"login-cmd":"/login (pembantuq)"
+}
